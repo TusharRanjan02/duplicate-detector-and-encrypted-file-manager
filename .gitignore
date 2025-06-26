@@ -1,0 +1,21 @@
+# Ignore compiled Java class files
+*.class
+
+# Ignore log files
+*.log
+organizer_log_*.txt
+
+# Ignore encrypted and decrypted files
+*.enc
+*.dec
+
+# IDE-specific files
+/.idea/
+/*.iml
+
+# VS Code settings
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
