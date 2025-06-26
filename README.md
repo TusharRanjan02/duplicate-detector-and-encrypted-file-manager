@@ -89,7 +89,7 @@ EncryptedFileOrganizer/
 
 ```text
 📁 Enter the path of the folder to manage:
-C:/Users/Tushar/Desktop/Test
+C:\Users\TUSHAR\Desktop\Sample Test
 
 ========== File Organizer Menu ==========
 1. Detect & Clean Duplicate Files
@@ -98,13 +98,38 @@ C:/Users/Tushar/Desktop/Test
 4. Decrypt a File
 5. View Log File Path
 6. Exit
+Choose an option (1–6): 1
+🔍 Scanning for duplicates...
 
+Group 1 duplicates:
+  [0] C:\Users\TUSHAR\Desktop\Sample Test\U8-Manuscript-Similarity (1).docx
+  [1] C:\Users\TUSHAR\Desktop\Sample Test\U8-Manuscript-Similarity.docx        
+Delete all except file 0? (y/n): y
+Deleted: U8-Manuscript-Similarity.docx
+
+
+
+========== File Organizer Menu ==========
+1. Detect & Clean Duplicate Files
+2. Organise Files by Type
+3. Encrypt a File
+4. Decrypt a File
+5. View Log File Path
+6. Exit
 Choose an option (1–6): 2
-Moved resume.pdf → Documents/
-Moved photo.jpg → Images/
-✅ Files organized successfully.
+Moved C9_Manuscript.pdf → Documents
+Moved Consent to Publish..docx → Documents
+Moved organizer_log.txt → Documents
+Moved SDP Final Project Report CSE U-8.pdf → Documents
+Moved SDP Final Project Report U-8.docx → Documents
+Moved SDP Final Project Report U-8[1] (tushar)1.docx → Documents
+Moved SDP Final Project Report U-8[1] (tushar)2.pdf → Documents
+Moved Tushar-Ranjan-Das-cvBY.pdf → Documents
+Moved Tushar-Ranjan-Das-resume-BY.pdf → Documents
+Moved Tushar-Ranjan-Das-Resume_CV.pdf → Documents
+Moved U8-Manuscript-Similarity (1).docx → Documents
+Moved U8-Report-Similarity.docx → Documents
 ```
-
 ---
 
 ## 🙋‍♂️ Author
